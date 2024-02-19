@@ -1,5 +1,16 @@
 # Sobre
-  Desenvolvimento de um script para servidores de Counter-Strike 1.6, permitindo a inicialização automática de partidas sem depender de plugins externos que possam interferir na mecânica do jogo.
+  Desenvolvimento de scripts para servidores de Counter-Strike 1.6, permitindo a inicialização automática de partidas sem depender de plugins externos que possam interferir na mecânica do jogo.
+  # Features
+    - Iniciar partida ao contabilizar 10 players. (Done).
+    - Troca de times automaticas ao atingir a 15 rounds (Doing).
+    - Inicializar votação para misturar os times. (Backlog).
+    - Permitir que os jogadores renasçam de forma ilimitada até que o início do mix ocorra (Backlog).
+    - Disponibilizar menu utils: (Backlog).
+        - All Spec
+        - Kicks e Bans
+        - Inicializar o modo CPL
+        - Troca de mapas
+      
 # Configuração de ambiente
   - Instalar o amxmodx
     - Documentação amxmodx/Instalação

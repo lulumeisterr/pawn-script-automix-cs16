@@ -2,6 +2,8 @@
   Criação de script para servidores de cs 1.6 para que o mesmo inicie partidas automaticas.
 # Configuração de ambiente
   - Instalar o amxmodx
+    - Documentação amxmodx/Instalação
+      - https://wiki.alliedmods.net/Installing_AMX_Mod_X_Manually    
   - Crie/Adicione o seu arquivo de plugin ".amxx" no diretorio ``\addons\amxmodx\plugins``
       # Configuração de build
       - Abrir o projeto na raiz

@@ -51,6 +51,7 @@
               ```
 # Habilitar script amxx.
   - Adicionar o plugin (Exemplo) "teste.amxx" a ser criado na pasta ``cstrike\addons\amxmodx\plugins``    
-    - Habilitar o plugin no arquivo  ``cstrike\addons\amxmodx\configs\plugins`` 
-      - ![image](https://github.com/lulumeisterr/pawn-script-automix-cs16/assets/25963928/95f46a01-051b-4130-8924-288fa02ef479)
+    - Habilitar o plugin no arquivo  ``cstrike\addons\amxmodx\configs\plugins``
+    - ![image](https://github.com/lulumeisterr/pawn-script-automix-cs16/assets/25963928/95f46a01-051b-4130-8924-288fa02ef479)
+      
    

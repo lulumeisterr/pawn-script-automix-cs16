@@ -6,11 +6,11 @@
       - https://wiki.alliedmods.net/Installing_AMX_Mod_X_Manually    
   - Crie/Adicione o seu arquivo de plugin ".amxx" no diretorio ``\addons\amxmodx\plugins``
       # Configuração de build
+      - Instalar VSCODE
       - Abrir o projeto na raiz
         - \SteamLibrary\steamapps\common\Half-Life\cstrike\addons\amxmodx
-        - Criar um plano de execução de build
-          - CTRL + SHIFT + B
-          - Adicionar o json abaixo.    
+        - Criar um plano de execução de build a partir do vscode
+          - CTRL + SHIFT + B (Adicionar o json abaixo)
            ```json
               {
                 "version": "2.0.0",

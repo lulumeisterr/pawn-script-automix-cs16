@@ -1,5 +1,5 @@
 # Sobre
-  Criação de script para servidores de cs 1.6 para que o mesmo inicie partidas automaticas.
+  Desenvolvimento de um script para servidores de Counter-Strike 1.6, permitindo a inicialização automática de partidas sem depender de plugins externos que possam interferir na mecânica do jogo.
 # Configuração de ambiente
   - Instalar o amxmodx
     - Documentação amxmodx/Instalação
@@ -36,10 +36,7 @@
              - CTRL + K & CTRL + S
                ![image](https://github.com/lulumeisterr/pawn-script-automix-cs16/assets/25963928/efea407d-3dc7-4488-b7c7-4c7503287b43)
               ```json
-                 [{
-                      "key": "f5",
-                      "command": "workbench.action.tasks.build"
-                  }]
+                 [{"key": "f5","command": "workbench.action.tasks.build"}]
               ```
 # Habilitar script amxx.
   - Adicionar o plugin (Exemplo) "teste.amxx" a ser criado na pasta ``cstrike\addons\amxmodx\plugins``    
